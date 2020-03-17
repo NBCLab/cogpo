@@ -1,0 +1,2 @@
+# cogpo
+Cognitive Paradigm Ontology
